@@ -8,5 +8,5 @@ serviceworker and video fun
 5. in network tab you should see that video has `x-id: foo` header (and the video starts)
 
 
-btw this does registers for push notifications
+btw this asks for push notifications as well.
 
